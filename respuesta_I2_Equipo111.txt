@@ -9,7 +9,9 @@ b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
 Si, del mismo modo que GAMMA actualiza el repositorio ALFA tambien puede.
 
 c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+Si, si se agrega de forma remota.
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
 el fork?
+No, git se encarga de mantener los dos archivos. 
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
